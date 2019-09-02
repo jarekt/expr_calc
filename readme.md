@@ -10,4 +10,4 @@ A simple calculator with operator precedence based on the same principles as a l
 * or compile for yourself 
     * some compilers that dont need libm may cause an error, to fix it just change the link_libm flag in CMakeLists.txt
     * visual studio has hard time compiling this (as it's written in c not c++) and therefore requires you to use the debug runtime library (hence the big windows executable size)
-    * online
+* or [run it online](https://repl.it/repls/exprcalc)
